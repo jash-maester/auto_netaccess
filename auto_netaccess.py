@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python
 """
 Created By:
     Jashaswimalya Acharjee
