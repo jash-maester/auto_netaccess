@@ -4,11 +4,12 @@ So, out of frustration of repeatedly logging in everyday doing the same task lik
 
 # Prerequisites
 Requirements can be installed via:
-	```bash
-    sudo apt install firefox-geckodriver -y
+
+```bash
+    sudo apt install firefox-geckodriver -y && \
     pip install -U selenium
     # Tested with selenium==4.5.0
-	```
+```
 
 # NOTE
 Change the `USERNAME` and `PASSWORD` in the `.py` file and `execute` it. Read the script before executing, it's fairly straight-forward.
