@@ -2,6 +2,17 @@
 To get internet access for Students and Employees at IITM, one needs to login to the Netaccess (i.e. IITM's Internet Access) Portal, which apparently lasts for 24hrs and then again you have to login else the credentials will get expired and thus no internet access for you at all.
 So, out of frustration of repeatedly logging in everyday doing the same task like a moron, I created this script with Selenium Webdriver automation framework, with Firefox Geckodriver backbone (Because firefox is usually installed by default on Linux Systems).
 
+# Requests
+If you are using the `*-req.py` file, then you need not install anything other than the vanilla python3.
+
+```bash
+python auto_netaccess-req.py
+```
+# NOTE
+Change the `USERNAME` and `PASSWORD` in the `.py` file and `execute` it. Read the script before executing, it's fairly straight-forward.
+You may ignore everything below this point.
+
+
 # Prerequisites
 Requirements can be installed via:
 
