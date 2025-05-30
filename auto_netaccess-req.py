@@ -131,8 +131,8 @@ def main():
     Main function to perform the complete automation
     """
     # Your credentials
-    USERNAME = '19ucs002'
-    PASSWORD = 'Ach@rmya47*'  # Note: Consider using environment variables for security
+    USERNAME = 'USERNAME'
+    PASSWORD = 'PASSWORD'  # Note: Consider using environment variables for security
     
     try:
         # Initialize the authentication client
