@@ -1,6 +1,6 @@
 # Automatic Netaccess Authentication
 To get internet access for Students and Employees at IITM, one needs to login to the Netaccess (i.e. IITM's Internet Access) Portal, which apparently lasts for 24hrs and then again you have to login else the credentials will get expired and thus no internet access for you at all.
-So, out of frustration of repeatedly logging in everyday doing the same task like a moron, I created this script with Selenium Webdriver automation framework, with Firefox Geckodriver backbone (Because firefox is usually installed by default on Linux Systems).
+So, out of frustration of repeatedly logging in everyday doing the same task like a moron, I created multiple versions of automatically doing this tedious task.
 
 # C and Libcurl version
 Compile it for your own machine using:
